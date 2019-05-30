@@ -7,7 +7,7 @@ In this project, we will look for transiting exoplanets orbiting M type stars wi
 
 To follow along and play around with these scripts, feel free to download this whole repository with the "Clone or download" button.
 
-To run the .ipynb files, you can use the commands from the folders they are located in with this command:
+To run the .ipynb files, you can use this commands from the folders they are located in with:
 ```js
 jupyter notebook NameOfNotebook.ipynb
 ```
