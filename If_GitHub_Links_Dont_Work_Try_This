@@ -1,3 +1,6 @@
 If GitHub Links in this repository do not load properly, try this:
 place URL at the end of https://nbviewer.jupyter.org/github
 Example: https://nbviewer.jupyter.org/github/daxfeliz/TESS_Project/blob/master/PythonTutorial/IntroductionToPython.ipynb
+
+Or paste URL into this new tool by Dan Foreman-Mackey:
+https://dfm.io/nbview/
