@@ -3,12 +3,7 @@ In this repository is a tutorial on how to use LightKurve Version 2 to recover t
 Below are example of the output files using the functions available in the Python script "Pymc3_4_parameter_MCMC_TransitFit.py"
 
 
-![Initial Transit Model](https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png?raw=true)
+![Initial Transit Model](output_files/TIC_261136679_Sector_1_initial_model.png?raw=true)
 
-![plot](https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png)
+![plot](output_files/TIC_261136679_Sector_1_initial_model.png)
 
-
-<p align="center">
-  <img src="https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png" width="350" title="hover text">
-  <img src="https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png" width="350" alt="accessibility text">
-</p>
