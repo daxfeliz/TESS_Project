@@ -5,4 +5,6 @@ Below are example of the output files using the functions available in the Pytho
 
 ![Initial Transit Model](https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png?raw=true)
 
+![plot](https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png)
+
 
