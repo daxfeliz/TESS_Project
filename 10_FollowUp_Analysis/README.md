@@ -8,3 +8,7 @@ Below are example of the output files using the functions available in the Pytho
 ![plot](https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png)
 
 
+<p align="center">
+  <img src="https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png" width="350" title="hover text">
+  <img src="https://github.com/daxfeliz/TESS_Project/tree/master/10_FollowUp_Analysis/output_files/TIC_261136679_Sector_1_initial_model.png" width="350" alt="accessibility text">
+</p>
